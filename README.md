@@ -1,7 +1,7 @@
 # ARTI406 – Machine Learning 🤖
 
 **University:** Imam Abdulrahman Bin Faisal University (IAU)  
-**College:** CCSIT - Computer Science & AI  
+**College:** CCSIT - AI  
 
 ## 👤 Student Information
 * **Name:** Khalid Waleed Alhilal | **ID:** 2230000788 | **Section:** 8ma02
