@@ -12,13 +12,20 @@
 
 | Lab | Topic | Status | Location |
 | :--- | :--- | :--- | :--- |
-| **Lab 1** | EDA & Data Preprocessing | ✅ Completed | [📂 View Lab 1](./Lab1/) |
-| **Lab 2** | (Upcoming Topic) | ⏳ Pending | - |
+| **Lab 1** | EDA & Data Exploration | ✅ Completed | [📂 View Lab 1](./Lab1/) |
+| **Lab 2** | Data Quality Assessment & Preprocessing | ✅ Completed | [📂 View Lab 2](./Lab2/) |
 | **Lab 3** | (Upcoming Topic) | ⏳ Pending | - |
 
 ---
 
 ## 📗 Implementation Details
+
+### ✅ Lab 2: Data Quality Assessment & Preprocessing
+* **Dataset:** Laptop Prices Dataset (Continued).
+* **Missing Values:** Addressed missing data using **Median Imputation** for numeric columns and **Mode Imputation** for categorical columns (like GPU/Storage type).
+* **Outlier Handling:** Detected and capped extreme values in the `Final Price` column using the **Interquartile Range (IQR)** method.
+* **Normalization & Scaling:** Applied **Min-Max Scaling** to `Storage` and **Z-score Standardization** to `RAM`.
+* **Dimensionality Reduction:** Applied **PCA (Principal Component Analysis)** on numerical features and analyzed the Explained Variance Ratio.
 
 ### ✅ Lab 1: Exploratory Data Analysis (EDA)
 * **Dataset:** Laptop Prices Dataset (Specifications & Prices).
