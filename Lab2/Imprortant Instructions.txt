@@ -1,0 +1,8 @@
+Students are required to submit a GitHub repository link. 
+
+Students will apply the Data Quality Assessment & Preprocessing learned in class to a dataset of your choice and must submit the following to the assignment 1 folder.
+
+1. Your Dataset file
+2. Dataset Description readme file
+3. Jupyter Notebook
+
